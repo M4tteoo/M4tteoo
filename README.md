@@ -19,7 +19,7 @@
 }
 ```
 ___
-I completed a bachelor in <b>Artificial intelligence</b> and now I am looking for an occupation that can teach all that theory cannot.
+I completed a bachelor in <b>Artificial intelligence</b> and now I am looking for an occupation that can teach me all that theory cannot.
 ___
 ### Some stuff about me
 - I wish to see the world, to meet and connect to as many people as I possibly can, I wish to defend my <b>happiness</b> and to be remembered by the ones I loved. 
