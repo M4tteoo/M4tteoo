@@ -11,7 +11,8 @@
   OpenToMoving: yes;
   height: 173cm; 
   display: boy; 
-  background: AIStudent; 
+  background: AIStudent;
+  CurrentPosition: Data & AI Intern
   color: Blue;
   Hobby1: Chess;
   Hobby2: Parkour;
