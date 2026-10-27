@@ -12,7 +12,7 @@
   height: 173cm; 
   display: boy; 
   background: AIStudent;
-  CurrentPosition: Data Scientist
+  CurrentPosition: Data Scientist;
   color: Blue;
   Hobby1: Chess;
   Hobby2: Parkour;
